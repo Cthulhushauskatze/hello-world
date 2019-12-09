@@ -1,3 +1,2 @@
 # hello-world
-Hallo Welt, kannst du mich hören?
-Ich bin toll und Lucca auch.
+Hier wird das Hello World in allen Programmiersprachen die ich kenne Aufgelistet
